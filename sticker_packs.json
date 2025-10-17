@@ -911,20 +911,6 @@
       "animated_sticker_pack": false
     },
     {
-      "identifier": "olaf2",
-      "name": "Olaf 2",
-      "publisher": "Tunar Hümmətli",
-      "tray_image_file": "tray_icon.png",
-      "github_url": "https://github.com/hummetlitunar/stickerdepo/blob/main/Olaf2.zip",
-      "publisher_email": "tuna.hummetliii@gmail.com",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "image_data_version": "1",
-      "avoid_cache": false,
-      "animated_sticker_pack": false
-    },
-    {
       "identifier": "owl",
       "name": "Owl",
       "publisher": "Tunar Hümmətli",
